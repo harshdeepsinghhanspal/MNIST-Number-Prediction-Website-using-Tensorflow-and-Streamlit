@@ -4,7 +4,7 @@ import numpy as np
 from PIL import Image, ImageOps
 
 # Load the model
-model = load_model('mnist_model.h5')
+model = load_model('model_state.h5')
 
 # Title
 st.title("MNIST Digit Classifier")
