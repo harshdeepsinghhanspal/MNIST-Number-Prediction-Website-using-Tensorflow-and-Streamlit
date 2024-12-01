@@ -1,5 +1,9 @@
 ⚠ Streamlit version-1.22.0
 
+⚠ Tensorflow version-2.3.0
+
+⚠ Keras version-2.3.1
+
 ⚠ Protobuf version-3.19.6
 (Protobuf version to be changed manually if 3.19.6 automatically doesn't come)
 
